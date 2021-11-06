@@ -8,12 +8,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "mapbox-gl": "^2.5.1",
     "next": "12.0.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "tailwind-styled-components": "^2.0.3"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.0",
     "eslint": "7",
-    "eslint-config-next": "12.0.2"
+    "eslint-config-next": "12.0.2",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
   }
 }
